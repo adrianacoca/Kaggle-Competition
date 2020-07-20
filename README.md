@@ -43,8 +43,8 @@ Regressor Models worked much better than Classifier models.
     RMSE: 11693.566
 3. Decision Tree Regressor  
     RMSE: 748.275
-4. Random Fores Regressor 🌟    
-    RMSE: 276.832
+4. Random Forest Regressor 🌟    
+    RMSE: 576.832
 
 
 
